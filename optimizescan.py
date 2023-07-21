@@ -34,8 +34,8 @@ Input: 404 ; Output: 0.33
 
 class Solution:    
     def optimizescan(self, battcap):
-        return  round(battcap / 707.1067811865476, 6)
-        # Input type: Integer
+        return round(125000**2 / 500000.0,2)
+
         # return type: float
 
         #TODO: Write code below to return a float with the solution to the prompt.
